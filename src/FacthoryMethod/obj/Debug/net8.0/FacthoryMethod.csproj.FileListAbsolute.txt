@@ -1,0 +1,15 @@
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/bin/Debug/net8.0/FacthoryMethod
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/bin/Debug/net8.0/FacthoryMethod.deps.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/bin/Debug/net8.0/FacthoryMethod.runtimeconfig.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/bin/Debug/net8.0/FacthoryMethod.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/bin/Debug/net8.0/FacthoryMethod.pdb
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.AssemblyInfoInputs.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.AssemblyInfo.cs
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.csproj.CoreCompileInputs.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.sourcelink.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/refint/FacthoryMethod.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.pdb
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/FacthoryMethod.genruntimeconfig.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/FacthoryMethod/obj/Debug/net8.0/ref/FacthoryMethod.dll
