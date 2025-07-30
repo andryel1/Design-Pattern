@@ -1,0 +1,15 @@
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.AssemblyInfoInputs.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.AssemblyInfo.cs
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.csproj.CoreCompileInputs.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.sourcelink.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/bin/Debug/net8.0/abstractFactory
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/bin/Debug/net8.0/abstractFactory.deps.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/bin/Debug/net8.0/abstractFactory.runtimeconfig.json
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/bin/Debug/net8.0/abstractFactory.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/bin/Debug/net8.0/abstractFactory.pdb
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/refint/abstractFactory.dll
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.pdb
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/abstractFactory.genruntimeconfig.cache
+/home/andryel/Documents/Projetos/Design-Pattern/src/abstractFactory/obj/Debug/net8.0/ref/abstractFactory.dll
