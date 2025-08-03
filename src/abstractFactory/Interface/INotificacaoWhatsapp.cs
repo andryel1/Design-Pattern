@@ -1,6 +1,6 @@
-namespace abstractFactory.Interface;
+    namespace abstractFactory.Interface;
 
-public interface INotificacaoWhatsapp
-{
-void send(string message, string user);
-}
+    public interface INotificacaoWhatsapp
+    {
+    void send(string message, string user);
+    }

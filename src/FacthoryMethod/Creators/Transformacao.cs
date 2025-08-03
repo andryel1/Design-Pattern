@@ -11,6 +11,5 @@ namespace FacthoryMethod.Creators
             var enviar = GetNotification();
             enviar.Message();
         }
-   
     }
 }
